@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @2Tough, nice to meet you!
 - 👀 I’m interested in DIY, self-learning, programming and working out. To get better and learn, I try to build something everyday!
-- 🌱 I’m trying to get better at Javascript everything, and recently started learning Python and C++. But learning anything is a path that never ends. Even one of the wisest people on Earth once said 
-- "I only know that I know nothing"
+- 🌱 I’m trying to get better at Javascript everyday, and recently started learning Python and C++. This, however, is a path that never ends: 
+    Even one of the wisest people on Earth once said - "I only know that I know nothing"
 - 💞️ I’m looking to collaborate on anything I can, if I can help, let's do it!
 - 📫 Reach me at: vainferro@gmail.com
 
