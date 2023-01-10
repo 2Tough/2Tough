@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @2Tough, nice to meet you!
-- 👀 I’m interested in DIY, self-learning, programming and working out. To get better and learn, I try to build something everyday!
-- 🌱 I’m trying to get better at Javascript everyday, and recently started learning Python, C++ and Java. This, however, is a path that never ends: 
-    Even one of the wisest people on Earth once said - "I only know that I know nothing"
-- 💞️ I’m looking to collaborate on anything I can, if I can help, let's do it!
-- 📫 Reach me at: vainferro@gmail.com
+- Hi, I’m @2Tough, nice to meet you!
+- I’m interested in DIY, self-learning, programming and working out. To get better and learn, I try to build something everyday!
+- Learning is a path that never ends. I use Freecodecamp, The Odin Project and Scrimba to learn frontend, including React. 
+- Recently started learning a C++ and Java. 
+- Reach me at: vainferro@gmail.com
 
 <!---
 2Tough/2Tough is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
