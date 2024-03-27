@@ -1,7 +1,7 @@
 - Hi, I’m @2Tough, nice to meet you!
 - I’m interested in DIY, self-learning, programming and working out. To get better and learn, I try to build something everyday!
-- Learning is a path that never ends. I use Freecodecamp, The Odin Project and Scrimba to learn frontend, including React. 
-- Recently started learning a C++ and working in Java. 
+- Learning is a path that never ends. I have used Freecodecamp, The Odin Project and Scrimba to learn frontend, including React. Now doing the MOOC courses for Java, python, and data science from the university of Helsinki.
+- Recently started learning a Three js also. 
 - Reach me at: polaski.dev@gmail.com
 
 <!---
