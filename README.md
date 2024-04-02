@@ -1,8 +1,14 @@
-- Hi, I’m @2Tough, nice to meet you!
-- I’m interested in DIY, self-learning, programming and working out. To get better and learn, I try to build something everyday!
-- Learning is a path that never ends. I have used Freecodecamp, The Odin Project and Scrimba to learn frontend, including React. Now doing the MOOC courses for Java, python, and data science from the university of Helsinki.
-- Recently started learning a Three js also. 
-- Reach me at: polaski.dev@gmail.com
+![Hello](docs/hello.svg)
+
+#  Hi, I’m @2Tough, nice to meet you!
+
+**`Learner, Developer and Cool Stuff Enthusiast`**
+
+I’m interested in DIY, self-learning, programming and working out. To get better and learn, I try to build something everyday! This is a path that never ends. I have used Freecodecamp, The Odin Project and Scrimba to learn frontend, including React. Now doing the MOOC courses for Java, Python, and data science from the University of Helsinki. Recently started learning a Three js also. 
+Reach me at: polaski.dev@gmail.com
+
+  
+
 
 ### 🧰 Languages and Tools
 
@@ -25,7 +31,8 @@
 
 ![2Tough's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Tough&show_icons=true&theme=gruvbox)
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=2Tough.visitor-badge&left_color=red&right_color=green) 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=2Tough.visitor-badge&left_text=Visitors)
+
 
 <!---
 2Tough/2Tough is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
