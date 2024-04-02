@@ -1,5 +1,3 @@
-![Hello](docs/hello.svg)
-
 #  Hi, I’m @2Tough, nice to meet you!
 
 **`Learner, Developer and Cool Stuff Enthusiast`**
@@ -30,10 +28,10 @@ Reach me at: polaski.dev@gmail.com
 ### 📊 Stats
 
 ![2Tough's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Tough&show_icons=true&theme=gruvbox)
-
+****
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=2Tough.visitor-badge&left_text=Visitors)
 
-
+![](./profile-3d-contrib/profile-night-green.svg)
 <!---
 2Tough/2Tough is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
