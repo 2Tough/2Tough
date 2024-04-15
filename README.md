@@ -1,4 +1,5 @@
-#  Hi, I’m Valentin (aka Polaski/2Tough), nice to meet you!
+#  Make it simple, but significant
+
 ![](CompletedVIdeoMonitor-gif.gif)
 
 **`Learner, Developer and Cool Stuff Enthusiast`**
