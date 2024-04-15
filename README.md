@@ -1,4 +1,5 @@
 #  Hi, I’m @2Tough, nice to meet you!
+![](CompletedVIdeoMonitor-gif.gif)
 
 **`Learner, Developer and Cool Stuff Enthusiast`**
 
