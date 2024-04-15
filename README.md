@@ -1,4 +1,4 @@
-#  Hi, I’m @2Tough, nice to meet you!
+#  Hi, I’m Valentin (aka Polaski/2Tough), nice to meet you!
 ![](CompletedVIdeoMonitor-gif.gif)
 
 **`Learner, Developer and Cool Stuff Enthusiast`**
