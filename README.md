@@ -28,10 +28,7 @@ Reach me at: polaski.dev@gmail.com
 
 
 ### 📊 Stats
-
-![2Tough's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Tough&show_icons=true&theme=gruvbox)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=2Tough)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=2Tough&theme=merko)](https://git.io/streak-stats)
 ****
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=2Tough.visitor-badge&left_text=Visitors)
 
